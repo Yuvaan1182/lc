@@ -1,0 +1,3 @@
+topic: sliding window
+2379: easy
+1004: medium
